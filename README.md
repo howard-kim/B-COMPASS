@@ -1,1 +1,1 @@
-# COMPASS
+# Beyond COMPASS
